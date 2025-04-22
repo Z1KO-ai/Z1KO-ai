@@ -1,6 +1,6 @@
 # **Welcome to My Background Profile!** 🌟
 
-This is a snapshot of my journey, goals, and progress as I work towards becoming an ethical hacker, and well-rounded individual. 🚀
+This is a snapshot of my journey, goals, and progress as I work towards becoming an Full Stack Developper, Python Developper, & Ethical Hacker, and well-rounded individual. 🚀
 
 ---
 
@@ -8,7 +8,7 @@ This is a snapshot of my journey, goals, and progress as I work towards becoming
 Hi there! I'm passionate about:  
 - 💻 Ethical hacking and cybersecurity  
 - 🖥️ Web development
-- 📚 Continuous self-improvement in computer science, English, and French   
+- 📚 Continuous self-improvement in computer science. 
 
 I strive to balance technical expertise with personal growth to lead a meaningful and impactful life.  
 
