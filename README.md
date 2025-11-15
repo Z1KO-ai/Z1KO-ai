@@ -6,28 +6,17 @@ This is a snapshot of my journey, goals, and progress as I work towards becoming
 
 ## **🌐 About Me**  
 Hi there! I'm passionate about:  
-- 💻 Ethical hacking and cybersecurity  
-- 🖥️ Web development
-- 📚 Continuous self-improvement in computer science. 
-
+- 💻 DataBase development
+- 🖥️ Back-end development
 I strive to balance technical expertise with personal growth to lead a meaningful and impactful life.  
 
 ---
 
 ## **📂 Projects & Focus Areas**  
-- 🌟 **Python Development:**  
-  - Developing random projects like a Snake game and enhancing my GitHub presence.  
-- 🌟 **Cybersecurity & Networking:**  
-  - Advancing my ethical hacking skills and working on network topology design projects.  
-- 🌟 **Web Development:**  
-  - Learning HTML, CSS & JAVASCRIPT to build a professional portfolio website.  
-
----
-
-## **💡 Personal Philosophy**  
-- **Discipline over motivation.**  
-- **Continuous learning is the key to success.**  
-- **Small daily wins lead to big transformations.**  
+- 🌟 **DataBase development:**  
+  - Build Professional DataBase using MySql, PostgreSQL & Oracle DBMS.  
+- 🌟 **Back-end development:**  
+  - Building Back End Applications using java, Python & JavaScript (Node.js).  
 
 ---
 
